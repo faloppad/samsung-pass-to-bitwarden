@@ -1,0 +1,6 @@
+# Never commit vault data
+*.spass
+*.csv
+
+.DS_Store
+__pycache__/
